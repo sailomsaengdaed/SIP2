@@ -15,6 +15,7 @@ example for C#
 
                         SIP2.SIP2 SIP2_Control=new SIP2.SIP2(); 
                         SIP2_Control.SipConnection(IP, Port, User, Password, extra_number);
+                        //SIP2_Control.SipConnection(IP, Port, User, Password, "");
                         SIP2_Control.Open();
 
                         SIP2_Control.setPatron(txtPatron.Text);
