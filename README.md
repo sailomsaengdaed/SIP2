@@ -1,7 +1,10 @@
 # SIP2
+
 Library SIP2 C# .net standard 2.0
+
 add sip2.dll to project
-example fro C#
+
+example for C#
 
             ...
             using SIP2;
