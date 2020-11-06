@@ -1,0 +1,8 @@
+D:\patt\New\C#\SIP2\SIP2\obj\Debug\netstandard2.0\SIP2.csprojAssemblyReference.cache
+D:\patt\New\C#\SIP2\SIP2\obj\Debug\netstandard2.0\SIP2.AssemblyInfoInputs.cache
+D:\patt\New\C#\SIP2\SIP2\obj\Debug\netstandard2.0\SIP2.AssemblyInfo.cs
+D:\patt\New\C#\SIP2\SIP2\bin\Debug\netstandard2.0\SIP2.deps.json
+D:\patt\New\C#\SIP2\SIP2\bin\Debug\netstandard2.0\SIP2.dll
+D:\patt\New\C#\SIP2\SIP2\bin\Debug\netstandard2.0\SIP2.pdb
+D:\patt\New\C#\SIP2\SIP2\obj\Debug\netstandard2.0\SIP2.dll
+D:\patt\New\C#\SIP2\SIP2\obj\Debug\netstandard2.0\SIP2.pdb
