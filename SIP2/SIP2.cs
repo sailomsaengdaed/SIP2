@@ -464,6 +464,7 @@ namespace SIP2
         {
             /* renew all items for a patron (65) - untested */
             _newMessage("65");
+            _addFixedOption(_datestamp(), 18);            
             _addVarOption("AO", AO);
             _addVarOption("AA", patron);
             _addVarOption("AD", patronpwd, true);
