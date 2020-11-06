@@ -26,7 +26,6 @@ example for C#
 
                         if (return_value["fixed"]["PatronStatus"] == "              ")
                         {
-                            SIP2_Control.setPatronpwd("");
                             txtDetail.Text = "";
                             txtDetail.Text += "Barcode\t:\t " + return_value["variable"]["AA"]+"\r\n";
                             txtDetail.Text += "Title\t:\t" + return_value["variable"]["AE"] + "\r\n";
