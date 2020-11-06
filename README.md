@@ -3,11 +3,12 @@ Library SIP2 C# .net standard 2.0
 add sip2.dll to project
 example fro C#
 
+...
 using SIP2;
-.
-.
+...
+private void btmPatronInfrmation_Click(object sender, EventArgs e)
+{
             SIP2.SIP2 SIP2_Control=new SIP2.SIP2(); 
-
             SIP2_Control.SipConnection(IP, Port, User, Password, extra_number);
             SIP2_Control.Open();
 
@@ -46,8 +47,6 @@ using SIP2;
                 MessageBox.Show("User or Password Failed");
             }
 
-
             SIP2_Control.Close();
-            .
-            .
-            .
+
+}
